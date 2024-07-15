@@ -245,7 +245,7 @@ export default function Page() {
           <div className="">
             <p className="text-[30px] text-[#48AFDE]">
               {" "}
-              Request A Call Back ! Feel Free To Reach & Contact Us.
+              Request A Call Back ! Feel Free To Reach & Contact Me.
             </p>
           </div>
           <form className="flex flex-col gap-[20px]" onSubmit={handleSubmit}>
