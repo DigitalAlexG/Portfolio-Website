@@ -179,14 +179,6 @@ const HomeComponent = () => {
                     <Image
                       height={8}
                       width={50}
-                      src="/pmp.png"
-                      alt=""
-                      // className="h-12 grayscale opacity-30 hover:grayscale-0 hover:opacity-100 cursor-pointer "
-                      className="h-12"
-                    />
-                    <Image
-                      height={8}
-                      width={50}
                       src="/java.png"
                       alt=""
                       // className="h-12 grayscale opacity-30 hover:grayscale-0 hover:opacity-100 cursor-pointer "
