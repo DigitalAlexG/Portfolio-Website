@@ -233,7 +233,7 @@ export default function Page() {
             </div>
             <div>
               <button className="bg-[#48AFDE] text-white mb-[30px] px-4 py-2 hover:bg-[#223740] transition-color rounded-xl">
-                Let's chat
+                Let&apos;s chat
               </button>
             </div>
           </div>

@@ -69,8 +69,8 @@ export default function AboutMe() {
               {" "}
               My name is Alex. A professional and enthusiastic full-stack
               developer. However, I am more than just your average
-              programmer.For the past 14 years, I've continuously learned new
-              technologies, explored new concepts, and adapted to new
+              programmer.For the past 14 years, I&apos;ve continuously learned
+              new technologies, explored new concepts, and adapted to new
               situations.
             </p>
             <p
@@ -90,8 +90,8 @@ export default function AboutMe() {
               When I encounter a new problem, I usually conduct extensive
               research on it in order to comprehend it and discover cutting-edge
               and innovative approaches for dealing with similar problems in the
-              future. As a result, it's not unexpected that I've listed a lot of
-              abilities here:
+              future. As a result, it&apos;s not unexpected that I&apos;ve
+              listed a lot of abilities here:
             </p>
           </section>
         </div>
