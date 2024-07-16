@@ -36,11 +36,12 @@ export default function Home() {
             <p
               className={`max-w-2xl md:pl-[80px] px-5 font-[300] text-[16px] text-[#47626D] leading-8 mt-5 ${hind.className}`}
             >
-              Here are a few of my work. As a full-stack web developer, I
-              constantly priorities 100% client satisfaction. I always enjoy
-              coding, each project is a new adventure for me. While working on
-              each new project, I attempt to learn new things. As a result, my
-              projects are always current and one-of-a-kind.
+              Here are a few examples. As a full-stack web developer, I
+              constantly prioritize 100% client satisfaction. I always enjoy
+              coding, as each project is a new adventure for me. While working
+              on each new project, I attempt to learn new things and grow my
+              skills. As a result, my projects are always current and
+              one-of-a-kind.
             </p>
           </div>
         </div>

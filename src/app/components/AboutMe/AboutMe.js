@@ -60,17 +60,18 @@ export default function AboutMe() {
             About Myself
           </h1>
           <h4 className="relative w-full font-[300] md:w-3/4 lg:w-2/3 xl:w-1/2 font-recoleta text-[#223740] text-2xl mb-10 px-5 md:px-24">
-            Knack of Building application with frontend and backend operation
+            Knack for Building applications with front-end and back-end
+            operations
           </h4>
           <section className="relative flex flex-col lg:flex-row px-5 md:px-24">
             <p
               className={`w-full lg:w-1/3 text-[#223740] mr-0 mb-5  lg:mr-4 font-[200] ${hind.className}`}
             >
               {" "}
-              My name is Alex. A professional and enthusiastic full-stack
-              developer. However, I am more than just your average
-              programmer.For the past 14 years, I&apos;ve continuously learned
-              new technologies, explored new concepts, and adapted to new
+              My name is Alex. I am a professional and enthusiastic full-stack
+              developer. However, I am more than just your average programmer.
+              For the past 14 years, I&apos;ve continuously learned new
+              technologies, explored new concepts, and adapted to new
               situations.
             </p>
             <p
@@ -80,8 +81,8 @@ export default function AboutMe() {
               This attitude propelled me on an endless journey to learn a
               variety of skills, including project management, software design,
               front-end and back-end development, devOps, optimizations,
-              Cross-functional collaboration, mentoring newcomers, teaching kids
-              coding and many more...
+              cross-functional collaboration, mentoring newcomers, teaching kids
+              coding and many more.
             </p>
             <p
               className={`w-full lg:w-1/3 text-[#223740] mr-0 mb-5  lg:mr-4 font-[200] ${hind.className}`}
@@ -157,7 +158,7 @@ export default function AboutMe() {
                 <p
                   class={`text-[#47626D] ${hind.className}  text-lg sm:text-base lg:text-xl transition duration-500 transform opacity-100 undefined undefined`}
                 >
-                  My skills as
+                  My skills with
                 </p>
                 <h2 class="font-recoletaBold text-[#47626D] text-3xl sm:text-2xl md:text-3xl mb-6 w-44 md:w-56 transition duration-500 transform opacity-100 undefined undefined">
                   {mapData?.title}

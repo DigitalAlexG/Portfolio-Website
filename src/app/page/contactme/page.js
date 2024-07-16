@@ -87,21 +87,21 @@ export default function Page() {
       <div className="flex flex-col items-center justify-center w-full pt-[80px] pb-[80px] mt-4">
         <div className='flex flex-col items-center justify-center bg-[url("/offices.jpg")] bg-cover bg-center w-full h-[400px]'>
           <div className="flex flex-col items-center justify-center  w-full h-full bg-[#223740]/70 backdrop-brightness-50">
-            <div className="text-center bg-[#48AFDE] py-[5px] px-[10px] tracking-wide uppercase font-semibold text-[20px] text-white rounded-lg">
+            {/* <div className="text-center bg-[#48AFDE] py-[5px] px-[10px] tracking-wide uppercase font-semibold text-[20px] text-white rounded-lg">
               <a href="#contact" className="cursor-pointer">
                 Contact Form
               </a>
-            </div>
+            </div> */}
             <div className="mt-[10px]">
               <h1 className="recoletaBold text-5xl text-[#48AFDE] p-2 text-center tracking-wide">
-                Hire Me
+                Contact Me
               </h1>
             </div>
             <div className="flex justify-center text-center mt-[10px] md:w-[700px] ">
               <p className="text-white font-[300] text-cener text-xl">
-                Are you looking for a responsible, professinal full-stack
+                Are you looking for a responsible, professional full-stack
                 developer for your website or your web application projects?
-                Just leave me a message and tell me how I can help.
+                Let&apos;s connect and find solutions together!
               </p>
             </div>
           </div>
@@ -153,7 +153,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <p className="text-[#666666]">Mob: +2508996662</p>
+                  <p className="text-[#666666]">Cel: 250-899-6662</p>
                 </div>
               </div>
             </div>
@@ -173,7 +173,7 @@ export default function Page() {
                       <p>Drop A Line</p>
                     </div>
                     <div className="font-semibold text-[20px] tracking-wide">
-                      <p>Maill Address</p>
+                      <p>Email Address</p>
                     </div>
                   </div>
                 </div>
@@ -222,25 +222,25 @@ export default function Page() {
             <div className="text-4xl xl:mt-[150px] mt-0 rounded-full px-[15px] py-[15px] bg-[#48AFDE] text-white">
               <FaHeadphones />
             </div>
-            <div className="font-semibold text-[24px]">Chat With Live!</div>
+            <div className="font-semibold text-[24px]">Contact Me!</div>
             <div>
               <p className="text-center mt-5 font-[200] text-xl">
                 {" "}
-                Are you looking for a responsible, professinal full-stack
+                Are you looking for a responsible, professional full-stack
                 developer for your website or your web application projects?
-                Just leave me a message and tell me how I can help.
+                Let&apos;s connect and find solutions together!
               </p>
             </div>
-            <div>
+            {/* <div>
               <button className="bg-[#48AFDE] text-white mb-[30px] px-4 py-2 hover:bg-[#223740] transition-color rounded-xl">
                 Let&apos;s chat
               </button>
-            </div>
+            </div> */}
           </div>
         </div>
         <div className="flex flex-col gap-[20px]">
           <div className="text-center w-[100px] bg-red-500 py-[1px] tracking-wide uppercase font-300 font-sans text-[14px] text-white rounded-lg">
-            Contact Us
+            Contact Me
           </div>
           <div className="">
             <p className="text-[30px] text-[#48AFDE]">

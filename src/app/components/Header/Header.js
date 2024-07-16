@@ -122,7 +122,7 @@ export default function Header() {
                 href="/page/contactme"
                 onClick={() => setSelectedIndex1(3)}
               >
-                Hire me
+                ContactMe
               </Link>
             </li>
           </ul>
