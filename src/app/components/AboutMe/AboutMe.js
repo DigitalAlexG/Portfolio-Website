@@ -84,7 +84,7 @@ export default function AboutMe() {
               cross-functional collaboration, mentoring newcomers, teaching kids
               coding and many more.
             </p>
-            <p
+            {/* <p
               className={`w-full lg:w-1/3 text-[#223740] mr-0 mb-5  lg:mr-4 font-[200] ${hind.className}`}
             >
               {" "}
@@ -93,7 +93,7 @@ export default function AboutMe() {
               and innovative approaches for dealing with similar problems in the
               future. As a result, it&apos;s not unexpected that I&apos;ve
               listed a lot of abilities here:
-            </p>
+            </p> */}
           </section>
         </div>
       </div>

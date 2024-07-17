@@ -111,7 +111,7 @@ export default function Page() {
 
         <div className="px-[20px]">
           <div className="sm:flex gap-[20px] mt-[50px] max-w-[1105px] w-full h-full">
-            <div className="flex flex-col flex-1 xl:flex-row gap-[20px]">
+            <div className="flex flex-col flex-1 xl:flex-row gap-[100px]">
               <div
                 className="flex flex-col py-[35px] px-[45px] rounded-lg shadow-lg cursor-pointer transition-all transform duration-300 hover:bg-[#223740] hover:text-white hover:-translate-y-4 bg-white"
                 style={{ boxShadow: "#48AFDE -1px 1px 10px 0px" }}
@@ -123,10 +123,10 @@ export default function Page() {
 
                   <div className="flex flex-col">
                     <div className="text-[#48AFDE] text-[14px]">
-                      <p>Location...</p>
+                      <p>Location</p>
                     </div>
                     <div className="font-semibold text-[20px] tracking-wide">
-                      <p>Visit Us At:</p>
+                      <p>Visit Me At:</p>
                     </div>
                   </div>
                 </div>
@@ -139,17 +139,17 @@ export default function Page() {
                 className="flex flex-col py-[35px] px-[45px] rounded-lg shadow-lg cursor-pointer transition-all transform duration-300 hover:bg-[#223740] hover:text-white hover:-translate-y-4 bg-white"
                 style={{ boxShadow: "#48AFDE -1px 1px 10px 0px" }}
               >
-                <div className="flex items-center gap-[15px]">
+                <div className="flex items-center gap-[20px]">
                   <div>
                     <FiPhoneCall size={40} color="#48AFDE" />
                   </div>
 
                   <div className="flex flex-col">
                     <div className="text-[#48AFDE] text-[14px]">
-                      <p>24*7 Service..</p>
+                      <p>24*7 Service</p>
                     </div>
                     <div className="font-semibold text-[20px] tracking-wide">
-                      <p>Call Us On</p>
+                      <p>Call Me:</p>
                     </div>
                   </div>
                 </div>
@@ -158,9 +158,9 @@ export default function Page() {
                   <p className="text-[#666666]">Cel: 250-899-6662</p>
                 </div>
               </div>
-            </div>
+              {/* </div>
 
-            <div className="flex flex-col flex-1 xl:flex-row gap-[20px]">
+            <div className="flex flex-col flex-1 xl:flex-row gap-[20px]"> */}
               <div
                 className="flex flex-col py-[35px] px-[45px] rounded-lg shadow-lg cursor-pointer transition-all transform duration-300 hover:bg-[#223740] hover:text-white hover:-translate-y-4 bg-white"
                 style={{ boxShadow: "#48AFDE -1px 1px 10px 0px" }}
@@ -175,7 +175,7 @@ export default function Page() {
                       <p>Drop A Line</p>
                     </div>
                     <div className="font-semibold text-[20px] tracking-wide">
-                      <p>Email Address</p>
+                      <p>Email Address:</p>
                     </div>
                   </div>
                 </div>
@@ -184,7 +184,7 @@ export default function Page() {
                 </div>
               </div>
 
-              <div
+              {/* <div
                 className="flex flex-col py-[35px] px-[45px] rounded-lg shadow-lg cursor-pointer transition-all transform duration-300 hover:bg-[#223740] hover:text-white hover:-translate-y-4 bg-white"
                 style={{ boxShadow: "#48AFDE -1px 1px 10px 0px" }}
               >
@@ -205,7 +205,7 @@ export default function Page() {
                 <div>
                   <p className="text-[#666666]">Mon - Fri : 9am - 5pm</p>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
@@ -247,7 +247,7 @@ export default function Page() {
           <div className="">
             <p className="text-[30px] text-[#48AFDE]">
               {" "}
-              Request A Call Back ! Feel Free To Reach & Contact Me.
+              Please Feel Free To Reach And Contact Me.
             </p>
           </div>
           <form className="flex flex-col gap-[20px]" onSubmit={handleSubmit}>
