@@ -139,7 +139,7 @@ export default function DiagonalDrawer({
                         setIsOpen(false)
                       }}
                     >
-                      Hire Me
+                      Contact Me
                     </a>
                     {selecttedIndex1 === 3 ? (
                       <div className="absolute top-2  -left-2 w-full h-full transform-gpu transition-all duration-300 -rotate-6  opacity-100  group-hover:-rotate-6 group-hover:opacity-100 bg-[#48AFDE] rounded-xl -z-10"></div>
@@ -152,9 +152,9 @@ export default function DiagonalDrawer({
               </ul>
             </nav>
             <section className="mt-14 sm:mt-12 lg:mt-14 text-center relative sm:absolute lg:relative sm:right-0 lg:right-0 h-auto sm:h-full lg:h-auto">
-              <h3 className="block sm:hidden lg:block font-bold text-[#48AFDE]  text-2xl uppercase mb-5">
+              {/* <h3 className="block sm:hidden lg:block font-bold text-[#48AFDE]  text-2xl uppercase mb-5">
                 Follow Me Around
-              </h3>
+              </h3> */}
               <div className="flex flex-row sm:flex-col  lg:flex-row  justify-center">
                 <a
                   target="blank"
