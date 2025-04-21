@@ -68,8 +68,7 @@ export default function AboutMe() {
               className={`w-full lg:w-1/3 text-[#223740] mr-0 mb-5  lg:mr-4 font-[200] ${hind.className}`}
             >
               {" "}
-              My name is Alex. I am a professional and enthusiastic full-stack
-              developer. However, I am more than just your average programmer.
+              My name is Alex. I am a professional software engineer. However, I am more than just your average programmer.
               For the past 14 years, I&apos;ve continuously learned new
               technologies, explored new concepts, and adapted to new
               situations.

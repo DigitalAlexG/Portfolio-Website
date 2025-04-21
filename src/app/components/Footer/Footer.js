@@ -6,7 +6,7 @@ export default function Footer() {
       <footer className="bg-[#232323]">
         <div className="mx-auto max-w-screen-xl px-4 py-4 sm:px-6 lg:py-4 lg:px-8">
           <div className="md:hidden block text-center mb-2">
-            <p className="text-[#7b858b] font-sans">&copy; 2024 Alex Guo</p>
+            <p className="text-[#7b858b] font-sans">&copy; 2025 Alex Guo</p>
             <div className="flex justify-center mt-2 space-x-4">
               <a
                 className="group flex flex-col items-center justify-center"
@@ -76,7 +76,7 @@ export default function Footer() {
           </div>
 
           <div className="hidden md:flex justify-between items-center">
-            <p className="text-[#7b858b] font-sans">&copy; 2024 Alex Guo</p>
+            <p className="text-[#7b858b] font-sans">&copy; 2025 Alex Guo</p>
             <div className="flex space-x-4">
               <a
                 className="group flex flex-col items-center justify-center"

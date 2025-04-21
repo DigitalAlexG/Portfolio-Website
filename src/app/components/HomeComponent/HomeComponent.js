@@ -126,7 +126,7 @@ const HomeComponent = () => {
                   <h2
                     class={`text-[#223740] py-2 font-bold uppercase text-md md:text-xs lg:text-xl ${hind.className}`}
                   >
-                    Full-Stack Developer &amp; Team Leader
+                    Software Engineer
                   </h2>
 
                   <a
@@ -179,7 +179,7 @@ const HomeComponent = () => {
                     <Image
                       height={8}
                       width={50}
-                      src="/java.png"
+                      src="/logo/java.png"
                       alt=""
                       // className="h-12 grayscale opacity-30 hover:grayscale-0 hover:opacity-100 cursor-pointer "
                       className="h-12"
@@ -187,7 +187,7 @@ const HomeComponent = () => {
                     <Image
                       height={8}
                       width={50}
-                      src="/python.png"
+                      src="/logo/spring-boot.webp"
                       alt=""
                       // className="h-12 grayscale opacity-30 hover:grayscale-0 hover:opacity-100 cursor-pointer "
                       className="h-12"
@@ -195,7 +195,7 @@ const HomeComponent = () => {
                     <Image
                       height={8}
                       width={50}
-                      src="/JS.png"
+                      src="/logo/angular-ts.png"
                       alt=""
                       // className="h-12 grayscale opacity-30 hover:grayscale-0 hover:opacity-100 cursor-pointer "
                       className="h-12"
@@ -203,7 +203,7 @@ const HomeComponent = () => {
                     <Image
                       height={8}
                       width={50}
-                      src="/spring boot.png"
+                      src="/logo/python.webp"
                       alt=""
                       // className="h-12 grayscale opacity-30 hover:grayscale-0 hover:opacity-100 cursor-pointer "
                       className="h-12"
@@ -211,7 +211,7 @@ const HomeComponent = () => {
                     <Image
                       height={8}
                       width={50}
-                      src="/mulesoft.png"
+                      src="/logo/django.webp"
                       alt=""
                       // className="h-12 grayscale opacity-30 hover:grayscale-0 hover:opacity-100 cursor-pointer "
                       className="h-12"
@@ -219,7 +219,7 @@ const HomeComponent = () => {
                     <Image
                       height={8}
                       width={50}
-                      src="/mysql.png"
+                      src="/logo/html-js-css.png"
                       alt=""
                       // className="h-12 grayscale opacity-30 hover:grayscale-0 hover:opacity-100 cursor-pointer "
                       className="h-12"
@@ -227,43 +227,28 @@ const HomeComponent = () => {
                     <Image
                       height={8}
                       width={50}
-                      src="/mongodb.png"
+                      src="/logo/api.png"
                       alt=""
                       // className="h-12 grayscale opacity-30 hover:grayscale-0 hover:opacity-100 cursor-pointer "
                       className="h-12"
                     />
                     <Image
+                        height={8}
+                        width={50}
+                        src="/logo/github.png"
+                        alt=""
+                        // className="h-12 grayscale opacity-30 hover:grayscale-0 hover:opacity-100 cursor-pointer "
+                        className="h-12"
+                    />
+                    <Image
                       height={8}
                       width={50}
-                      src="/reactjs.png"
+                      src="/logo/docker.png"
                       alt=""
                       // className="h-12 grayscale opacity-30 hover:grayscale-0 hover:opacity-100 cursor-pointer  "
                       className="h-12"
                     />
-                    <Image
-                      height={8}
-                      width={50}
-                      src="/nextjs.png"
-                      alt=""
-                      // className="h-12 grayscale opacity-30 hover:grayscale-0 hover:opacity-100 cursor-pointer "
-                      className="h-12"
-                    />
-                    <Image
-                      height={8}
-                      width={50}
-                      src="/docker.png"
-                      alt=""
-                      // className="h-12 grayscale opacity-30 hover:grayscale-0 hover:opacity-100 cursor-pointer "
-                      className="h-12"
-                    />
-                    <Image
-                      height={8}
-                      width={50}
-                      src="/nodejs.png"
-                      alt=""
-                      // className="h-12 grayscale opacity-30 hover:grayscale-0 hover:opacity-100 cursor-pointer "
-                      className="h-12"
-                    />
+
                   </Slider>
                 </div>
               </div>
